@@ -1,0 +1,56 @@
+*{
+  background-color: #032152;
+  font-family: 'Indie Flower', cursive;
+  color: #fff;
+}
+
+
+.container{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice{
+  display: inline-block;
+}
+
+h1{
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 4px 0 #232931;
+  font-size: 2rem;
+  color: #4ECCA3;
+}
+
+h2{
+  font-size: 2rem;
+  color: #4ECCA3;
+}
+
+img{
+  width: 80%;
+}
+
+button{
+  display: block;
+  width: 200px;
+  height: 60px;
+  margin: 30px auto;
+  background-color: #4ECCA3;
+  font-size: 2rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 30px;
+}
+
+button:hover{
+  background-color: #599481;
+  cursor: pointer;
+}
+
+footer{
+  margin-top: 5%;
+  text-align: center;
+  color:#eee;
+}
